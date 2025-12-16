@@ -1,6 +1,6 @@
 {
   "name": "githero-cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The Git CLI that reads your mind",
   "type": "module",
   "bin": {
